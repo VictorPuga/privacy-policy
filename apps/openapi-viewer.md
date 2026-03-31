@@ -1,4 +1,4 @@
-# Privacy Policy for Minimalistic Portfolio App
+# Privacy Policy for OpenAPI Viewer App
 
 No data or personal information is collected by this app.
 
